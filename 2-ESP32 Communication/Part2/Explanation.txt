@@ -1,2 +1,0 @@
-Q2. Send Any two digit integer value from Access Point to Station in range (10-99). Station on receiving value if > 50, Station Should blink LED 4 Times.
-
